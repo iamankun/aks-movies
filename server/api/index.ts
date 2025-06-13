@@ -1,1 +1,1 @@
-export default defineEventHandler(() => 'Nuxt Movies API')
+export default defineEventHandler(() => 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzYjc2Njk0MTcxZjIyYWE4MWM4ODI0NWI2YzI3Y2RhZSIsIm5iZiI6MTczNDQzMzk3Ny4xNzI5OTk5LCJzdWIiOiI2NzYxNWNiOTMyODMyMmZjZjMxODllZGQiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.x7QLyTfmR_GufiCqGIIe_l7V2JpMJ4t6Gya1LpqvDos')
